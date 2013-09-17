@@ -1,0 +1,4 @@
+2013-09-13 09:12:15 ERROR  : ERRO:  erro de sintaxe em ou próximo a "postgresql"
+LINE 1: postgresql 8.4 -- -- Referencias: -- http://www.joaoneto.blo...
+        ^
+2013-09-13 09:13:16 ERROR  : 
